@@ -9,7 +9,7 @@ root.title("Born to Shine")
 my_img_1 = ImageTk.PhotoImage(Image.open(
     "C:\\Users\\Admin\\Desktop\\tkinter(freecodecamp)\\images\\lee_quote.png"))
 my_img_2 = ImageTk.PhotoImage(Image.open(
-    "C:\\Users\\Admin\\Desktop\\tkinter(freecodecamp)\\images\\me1.png"))
+    "C:\\Users\\Admin\\Desktop\\tkinter(freecodecamp)\\images\\me.png"))
 my_img_3 = ImageTk.PhotoImage(Image.open(
     "C:\\Users\\Admin\\Desktop\\tkinter(freecodecamp)\\images\\greenland.png"))
 my_img_4 = ImageTk.PhotoImage(Image.open(
@@ -17,7 +17,7 @@ my_img_4 = ImageTk.PhotoImage(Image.open(
 my_img_5 = ImageTk.PhotoImage(Image.open(
     "C:\\Users\\Admin\\Desktop\\tkinter(freecodecamp)\\images\\sky.png"))
 my_img_6 = ImageTk.PhotoImage(Image.open(
-    "C:\\Users\\Admin\\Desktop\\tkinter(freecodecamp)\\images\\wide.png"))
+    "C:\\Users\\Admin\\Desktop\\tkinter(freecodecamp)\\images\\wide_angle.png"))
 
 image_list = [my_img_1, my_img_2, my_img_3, my_img_4, my_img_5, my_img_6]
 
