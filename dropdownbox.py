@@ -22,6 +22,3 @@ drop.pack()
 
 mybtn = Button(root, text="show selection", command=show).pack()
 root.mainloop()
-
-
-3, 23
