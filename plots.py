@@ -1,20 +1,23 @@
+
 from tkinter import *
 from PIL import ImageTk, Image
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 root = Tk()
-root.title("born to shine!!")
+root.title('Born to shine!!')
+
 root.geometry("400x200")
 
 
 def graph():
-    house_prices = np.random.normal(20000, 25000, 5000)
-    plt.hist(house_prices, 2 0)
+    house_prices = np.random.normal(200000, 25000, 5000)
+    plt.polar(house_prices)
     plt.show()
 
 
-my_btn = Button(root, text="Graph it!", command=graph)
-my_btn.grid()
+my_button = Button(root, text="Graph It!", command=graph)
+my_button.pack()
 
 root.mainloop()
