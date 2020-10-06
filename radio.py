@@ -2,8 +2,8 @@ from tkinter import *
 from PIL import ImageTk, Image
 
 root = Tk()
-root.title('Learn To Code at Codemy.com')
-# root.iconbitmap('c:/gui/codemy.ico')
+root.title('Born To Shine!!')
+
 
 #r = IntVar()
 # r.set("2")
