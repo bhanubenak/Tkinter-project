@@ -1,9 +1,11 @@
 # tkinter-project
 # Output images
 
-# Base file
-![opening second window](https://github.com/bhanubenak/tkinter-project/blob/main/images/opening%20second%20window.png)
+# 1.Base file
+![opening second window in tkinter](https://github.com/bhanubenak/tkinter-project/blob/main/images/opening%20second%20window.png)
 
+# 2.Buttons file
+![using buttons in tkinter](https://github.com/bhanubenak/tkinter-project/blob/main/images/Buttons.png)
 
 # Calculator
 ![Calculator](https://github.com/bhanubenak/tkinter-project/blob/main/images/Calculator.png)
