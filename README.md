@@ -6,5 +6,5 @@
 # Opening second window
 ![Opening second window](https://github.com/bhanubenak/tkinter-project/blob/main/images/base.png)
 
-# Creating Buttons
-![https://github.com/bhanubenak/tkinter-project/blob/main/images/Buttons.png]
+# Buttons
+! [Creating Buttons](https://github.com/bhanubenak/tkinter-project/blob/main/images/Buttons.png)
