@@ -5,7 +5,8 @@ root = Tk()
 root.title("Born to Shine")
 # root.iconbitmap(bitmap=...)
 
-my_img = ImageTk.PhotoImage(Image.open("IMG_20200312_180939148~2.jpg"))
+my_img = ImageTk.PhotoImage(Image.open(
+    "C:\\Users\\Admin\\Desktop\\tkinter(freecodecamp)\\images\\me.png"))
 my_label = Label(image=my_img)
 my_label.pack()
 
