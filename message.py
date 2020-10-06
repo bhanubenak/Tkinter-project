@@ -3,19 +3,21 @@ from PIL import ImageTk, Image
 from tkinter import messagebox
 
 root = Tk()
-root.title("bron to shine!!")
+root.title('Bron to shine!!')
 
+
+# showinfo, showwarning, showerror, askquestion, askokcancel, askyesno
 
 def popup():
-    response = messagebox.askokcancel("this is popup", "Hello world")
+    response = messagebox.showinfo("This is my Popup!", "Hello World!")
     Label(root, text=response).pack()
-    if response == "yes":
-        Label(root, text="you clicked Yes!").pack()
-    else:
-        Label(root, text="you clicked No!").pack()
+    # if response == "yes":
+    #	Label(root, text="You Clicked Yes!").pack()
+    # else:
+    #	Label(root, text="You Clicked No!!").pack()
 
 
-Button(root, text="popup", command=popup).pack()
+Button(root, text="Popup", command=popup).pack()
 
 
 mainloop()
