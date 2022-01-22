@@ -1,4 +1,4 @@
-# tkinter-project
+# Tkinter-project
 # Output images
 
 # 1.Base file
